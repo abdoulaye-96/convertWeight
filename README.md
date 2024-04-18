@@ -1,2 +1,2 @@
 # convertWeight
-this project is for convert weight in kg into g
+this project is for converting weight in kg into g
